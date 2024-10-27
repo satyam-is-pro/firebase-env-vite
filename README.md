@@ -4,16 +4,12 @@ This repository showcases a CRUD (Create, Read, Update, Delete) application buil
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
+
 - [Getting Started](#getting-started)
   - [1. Clone the Repository](#1-clone-the-repository)
   - [2. Setup Environment Variables](#2-setup-environment-variables)
   - [3. Install Dependencies](#3-install-dependencies)
   - [4. Run the Application](#4-run-the-application)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Prerequisites
 
